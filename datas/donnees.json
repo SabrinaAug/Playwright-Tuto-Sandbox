@@ -1,0 +1,23 @@
+{
+    "identifiants":{
+        "email" : "tester@gmail.com",
+        "password" : "P@risMagique123*",
+        "prenom" : "John",
+        "nom" : "Doe",
+        "telephone" : "0123456789",
+        "rue" : "4 rue de nullepart",
+        "cp": "75001",
+        "ville":"Paris",
+        "pays": "France"
+
+    },
+
+    "cbInfo":{
+        "numCarte":"123456789",
+        "titulaire":"Jane Doe",
+        "monthExp":"02",
+        "yearExp":"2030",
+        "codeVerif":"001"
+    }
+}
+
